@@ -27,6 +27,7 @@
   "dependencies": {
     "dotenv": "^16.6.1",
     "express": "^5.2.1",
+    "lazycommits": "^1.1.3",
     "mongoose": "^9.1.5"
   },
   "devDependencies": {
